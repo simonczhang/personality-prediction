@@ -1,5 +1,3 @@
-mbti_1.csv
-ForumMessages.csv
-Users.csv
-myers-briggs-prediction.py
+*.csv
+*.py
 
